@@ -86,7 +86,17 @@ Dissertation-Ready Results
 
 Client testimonials are included below.
 
-<!-- Insert screenshots here -->
+# 💬 Client Testimonials
+
+These testimonials are shared with permission and demonstrate the quality of my work while maintaining client confidentiality.
+
+---
+
+### Client Review 1
+
+<p align="center">
+    <img src="images/Screenshot20%2026-07-1920%153756.png" width="700">
+</p>
 
 ---
 
