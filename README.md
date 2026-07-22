@@ -82,11 +82,7 @@ Dissertation-Ready Results
 
 ---
 
-## 🔹 Client Feedback
-
-Client testimonials are included below.
-
-# 💬 Client Testimonials
+## 💬 Client Testimonials
 
 These testimonials are shared with permission and demonstrate the quality of my work while maintaining client confidentiality.
 
